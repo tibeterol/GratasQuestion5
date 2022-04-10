@@ -1,6 +1,6 @@
 # Quasar App (quasar-project)
 
-A Quasar Project
+Gratas Question 5 solution
 
 ## Install the dependencies
 ```bash
